@@ -1,0 +1,36 @@
+﻿  Main.cpp
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(29,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(29,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(43,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(43,26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(103,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(263,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(284,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(287,22): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(288,22): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(317,9): error C2146: syntax error: missing ';' before identifier 'pisanje'
+C:\Users\Luka\Desktop\Fun Race\FunRace\Main.cpp(338,27): warning C4018: '<': signed/unsigned mismatch
